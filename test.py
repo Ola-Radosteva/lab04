@@ -6,3 +6,5 @@ list3 = [5, 6, 7, 8, 9]
 
 result = lib.count_common_elements(list1, list2, list3)
 print("Количество одинаковых элементов:", result)
+
+#Вероника привет!!!!
